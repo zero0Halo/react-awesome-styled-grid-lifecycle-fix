@@ -8276,13 +8276,14 @@ rollup-plugin-node-resolve@4.2.4:
     is-module "^1.0.0"
     resolve "^1.10.0"
 
-rollup-plugin-uglify@6.0.2:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/rollup-plugin-uglify/-/rollup-plugin-uglify-6.0.2.tgz#681042cfdf7ea4e514971946344e1a95bc2772fe"
+rollup-plugin-uglify@6.0.3:
+  version "6.0.3"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-uglify/-/rollup-plugin-uglify-6.0.3.tgz#e3f776171344b580bec6c6ab8888622b67099457"
+  integrity sha512-PIv3CfhZJlOG8C85N0GX+uK09TPggmAS6Nk6fpp2ELzDAV5VUhNzOURDU2j7+MwuRr0zq9IZttUTADc/jH8Gkg==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     jest-worker "^24.0.0"
-    serialize-javascript "^1.6.1"
+    serialize-javascript "^1.9.0"
     uglify-js "^3.4.9"
 
 rollup-pluginutils@^2.3.0:
@@ -8420,9 +8421,10 @@ serialize-javascript@^1.4.0:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/serialize-javascript/-/serialize-javascript-1.5.0.tgz#1aa336162c88a890ddad5384baebc93a655161fe"
 
-serialize-javascript@^1.6.1:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/serialize-javascript/-/serialize-javascript-1.7.0.tgz#d6e0dfb2a3832a8c94468e6eb1db97e55a192a65"
+serialize-javascript@^1.9.0:
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/serialize-javascript/-/serialize-javascript-1.9.0.tgz#5b77019d7c3b85fe91b33ae424c53dcbfb6618bd"
+  integrity sha512-UkGlcYMtw4d9w7YfCtJFgdRTps8N4L0A48R+SmcGL57ki1+yHwJXnalk5bjgrw+ljv6SfzjzPjhohod2qllg/Q==
 
 serve-handler@6.0.0:
   version "6.0.0"
